@@ -1,0 +1,17 @@
+C:\Users\benja\Downloads\pokemon-api\src\main\java\com\challenge\jemer\pokemon_api\configs\WebClientConfig.java
+C:\Users\benja\Downloads\pokemon-api\src\main\java\com\challenge\jemer\pokemon_api\controllers\PokemonController.java
+C:\Users\benja\Downloads\pokemon-api\src\main\java\com\challenge\jemer\pokemon_api\dtos\common\ApiError.java
+C:\Users\benja\Downloads\pokemon-api\src\main\java\com\challenge\jemer\pokemon_api\dtos\exceptions\GlobalExceptionHandler.java
+C:\Users\benja\Downloads\pokemon-api\src\main\java\com\challenge\jemer\pokemon_api\dtos\exceptions\ResourceNotFoundException.java
+C:\Users\benja\Downloads\pokemon-api\src\main\java\com\challenge\jemer\pokemon_api\dtos\PokemonHistoryDTO.java
+C:\Users\benja\Downloads\pokemon-api\src\main\java\com\challenge\jemer\pokemon_api\dtos\PokemonResponseDTO.java
+C:\Users\benja\Downloads\pokemon-api\src\main\java\com\challenge\jemer\pokemon_api\dtos\records\PokemonApiResponse.java
+C:\Users\benja\Downloads\pokemon-api\src\main\java\com\challenge\jemer\pokemon_api\dtos\records\Sprite.java
+C:\Users\benja\Downloads\pokemon-api\src\main\java\com\challenge\jemer\pokemon_api\dtos\records\TypeName.java
+C:\Users\benja\Downloads\pokemon-api\src\main\java\com\challenge\jemer\pokemon_api\dtos\records\TypeWrapper.java
+C:\Users\benja\Downloads\pokemon-api\src\main\java\com\challenge\jemer\pokemon_api\entities\PokemonHistoryEntity.java
+C:\Users\benja\Downloads\pokemon-api\src\main\java\com\challenge\jemer\pokemon_api\entities\PokemonType.java
+C:\Users\benja\Downloads\pokemon-api\src\main\java\com\challenge\jemer\pokemon_api\PokemonApiApplication.java
+C:\Users\benja\Downloads\pokemon-api\src\main\java\com\challenge\jemer\pokemon_api\repositories\PokemonRepository.java
+C:\Users\benja\Downloads\pokemon-api\src\main\java\com\challenge\jemer\pokemon_api\services\pokemon\PokemonService.java
+C:\Users\benja\Downloads\pokemon-api\src\main\java\com\challenge\jemer\pokemon_api\services\webClient\PokemonWebClientService.java
